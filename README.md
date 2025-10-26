@@ -4,7 +4,7 @@ A comprehensive Python project for web scraping financial fund data and performi
 
 ## 📹 Project Demo
 
-[![Project Demo Video](./assets/demo-video.mp4)](./assets/demo-video.mp4)
+* insert video:
 
 *Click the image above to watch the project demonstration*
 
@@ -54,22 +54,28 @@ This project consists of two main components:
 ## 🖼️ Screenshots
 
 ### Data Collection Process
-![Web Scraping Interface](./assets/scraping-interface.png)
+<p align="center">
+  <img src="" width="650" height="400"  alt="home" />
+</p>
 *Automated data collection from financial website*
 
 ### Statistical Analysis
-![Fund Statistics](./assets/fund-stats.png)
+<p align="center">
+  <img src="" width="650" height="400"  alt="home" />
+</p>
 *Monthly performance statistics for ACP fund*
 
 ### Visualization Output
-![Share Price Chart](./assets/price-chart.png)
+<p align="center">
+  <img src="" width="650" height="400"  alt="home" />
+</p>
 *Monthly average share price visualization*
 
 ## ⚙️ Option 1: Using UV (Recommended)
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/fund-analysis-project.git
+   git clone 
    cd fund-analysis-project
 
 2. **Install dependencies**
