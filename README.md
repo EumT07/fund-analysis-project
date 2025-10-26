@@ -55,42 +55,56 @@ This project consists of two main components:
 
 ### Data Collection Process
 <p align="center">
-  <img src="" width="650" height="400"  alt="home" />
+  <img src="https://github.com/EumT07/fund-analysis-project/blob/master/assets/scraping-interface.png" width="750" height="500"  alt="home" />
 </p>
 *Automated data collection from financial website*
 
 ### Statistical Analysis
 <p align="center">
-  <img src="" width="650" height="400"  alt="home" />
+  <img src="https://github.com/EumT07/fund-analysis-project/blob/master/assets/fund-stats.png" width="750" height="500"  alt="home" />
 </p>
 *Monthly performance statistics for ACP fund*
 
 ### Visualization Output
 <p align="center">
-  <img src="" width="650" height="400"  alt="home" />
+  <img src="https://github.com/EumT07/fund-analysis-project/blob/master/assets/price-chart.png" width="750" height="500"  alt="home" />
 </p>
 *Monthly average share price visualization*
 
 ## ⚙️ Option 1: Using UV (Recommended)
 
 1. **Clone the repository**
-   ```bash
+  ```bash
    git clone https://github.com/EumT07/fund-analysis-project.git
    cd fund-analysis-project
+   ```
 
 2. **Install dependencies**
+  ```bash
+  uv pip install -r requirements.txt
+  ```
 
 # Create virtual environment
-uv venv
+  ```bash
+  uv venv
+  ```
 
 # Activate virtual environment
+
 # On Windows:
-.venv\Scripts\activate
+  ```bash
+  .venv\Scripts\activate
+  ```
+
 # On macOS/Linux:
-source .venv/bin/activate
+  ```bash
+  source .venv/bin/activate
+  ```
 
 # Install all dependencies
-uv pip install -r pyproject.toml
+  ```bash
+  uv pip install -r pyproject.toml
+  ```
 
 3. **Set up Chrome WebDriver**
 
