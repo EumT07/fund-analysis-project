@@ -9,15 +9,16 @@ A comprehensive Python project for web scraping financial fund data and performi
 *Click the image above to watch the project demonstration*
 
 ## 📁 Project Structure
-
-project/
-├── scrap.ipynb # Web scraping automation
-├── data.ipynb # Data analysis and visualization
-├── files/
-│ └── Funds.xlsx # Collected fund data
-├── assets/ # Screenshots and demo video
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+```bash
+📂 project/
+├── 📄 scrap.ipynb # Web scraping automation
+├── 📄 data.ipynb # Data analysis and visualization
+├── 📂 files/
+│ └── 📄 Funds.xlsx # Collected fund data
+├── 📂 assets/ # Screenshots and demo video
+├── 📄 requirements.txt # Python dependencies
+└── 📄 README.md # Project documentation
+```
 
 ## 🚀 Project Overview
 
