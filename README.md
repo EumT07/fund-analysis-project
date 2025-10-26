@@ -75,7 +75,7 @@ This project consists of two main components:
 
 1. **Clone the repository**
    ```bash
-   git clone 
+   git clone https://github.com/EumT07/fund-analysis-project.git
    cd fund-analysis-project
 
 2. **Install dependencies**
